@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+*.log
+dist/
+build/
+*.spec
+ECU_BAZA.xlsx
+ECU_SLIKE/
+data/ECU_BAZA.xlsx
+data/ECU_SLIKE/
